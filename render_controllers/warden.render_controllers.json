@@ -1,0 +1,131 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.warden": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.default"
+      ]
+    },
+    "controller.render.warden_ears": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.ears"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "variable.tendrils_alpha > 0 ? 0 : (variable.hearing_alpha > 0 ? 0 : 1)"
+        }
+      ]
+    },
+    "controller.render.warden_ears_hearing": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.ears_hearing"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "variable.tendrils_alpha > 0 ? 0 : (variable.hearing_alpha > 0 ? 1 : 0)"
+        }
+      ]
+    },
+    "controller.render.warden_tendrils": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.tendrils"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "variable.tendrils_alpha > 0 ? 1 : 0"
+        }
+      ]
+    },
+    "controller.render.warden_heart": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.heart"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "variable.heart_alpha > 0 ? 0 : 1"
+        }
+      ]
+    },
+    "controller.render.warden_heartbeat": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.heartbeat"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "query.hurt_time > 0 ? 1 : (variable.heart_alpha > 0 ? 1 : 0)"
+        }
+      ]
+    }
+  }
+}

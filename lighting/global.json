@@ -1,0 +1,103 @@
+{
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "directional_lights": {
+        "sun": {
+            "illuminance": {
+                "0.0": 1.0,
+                "0.25": 20.0,
+                "0.35": 50.0,
+                "0.5": 100.0,
+                "0.65": 50.0,
+                "0.75": 20.0,
+                "1.0": 1.0
+            },
+            "color": {
+                "0.25": [
+                    255,
+                    255,
+                    128,
+                    1
+                ],
+                "0.75": [
+                    255,
+                    255,
+                    128,
+                    1
+                ]
+            }
+        },
+        "moon": {
+            "illuminance": 0.67,
+            "color": "#FFFFFFFF"
+        },
+        "orbital_offset_degrees": 3.0
+    },
+    "point_lights": {
+        "colors": {
+            "minecraft:conduit": "#414141",
+            "minecraft:torch": "#EFE39D",
+            "minecraft:redstone_torch": "#FF0000",
+            "minecraft:redstone_torch_on": "#FF0000",
+            "minecraft:soul_torch": "#00FFFF",
+            "minecraft:beacon": "#2BCBC0",
+            "minecraft:lantern": "#E4D05B",
+            "minecraft:soul_lantern": "#008080",
+            "minecraft:sea_lantern": "#117777",
+            "minecraft:lit_redstone_lamp": "#946931",
+            "minecraft:sea_pickle": "#4C430C",
+            "minecraft:campfire": "#FF7700",
+            "minecraft:soul_campfire": "#00B3B3",
+            "minecraft:enchanting_table": "#006767",
+            "minecraft:respawn_anchor": "#6718A5",
+            "minecraft:portal": "#1B001B",
+            "minecraft:glowstone": "#FBDA74",
+            "minecraft:shroomlight": "#FE8738",
+            "minecraft:ochre_froglight": "#CC7722",
+            "minecraft:pearlescent_froglight": "#B768A2",
+            "minecraft:verdant_froglight": "#12674A",
+            "minecraft:lit_redstone_ore": "#960606",
+            "minecraft:lit_deepslate_redstone_ore": "#960606",
+            "minecraft:cave_vines_body_with_berries": "#802E06",
+            "minecraft:cave_vines_head_with_berries": "#802E06",
+            "minecraft:end_rod": "#FFE4E1",
+            "minecraft:ender_chest": "#020E14",
+            "minecraft:black_candle": "#0D0D0D",
+            "minecraft:blue_candle": "#00003F",
+            "minecraft:brown_candle": "#48240A",
+            "minecraft:cyan_candle": "#008B8B",
+            "minecraft:gray_candle": "#838383",
+            "minecraft:green_candle": "#013220",
+            "minecraft:light_blue_candle": "#0000FF",
+            "minecraft:light_gray_candle": "#808080",
+            "minecraft:lime_candle": "#86B300",
+            "minecraft:magenta_candle": "#8B008B",
+            "minecraft:orange_candle": "#FF6500",
+            "minecraft:pink_candle": "#D11D53",
+            "minecraft:purple_candle": "#800080",
+            "minecraft:red_candle": "#8B0000",
+            "minecraft:white_candle": "#F5F5F5",
+            "minecraft:yellow_candle": "#B3B300",
+            "minecraft:candle": "#D0B722"
+        }
+    },
+    "pbr": {
+        "blocks": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "actors": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                255
+            ]
+        }
+    }
+}
