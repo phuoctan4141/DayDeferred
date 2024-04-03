@@ -1,8 +1,0 @@
-{
-    "biomes": {
-        "the_end": {
-            "fog_identifier": "pbr:end",
-            "fog_color": "#9d64c8"
-        }
-    }
-}

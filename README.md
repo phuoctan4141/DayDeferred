@@ -6,6 +6,14 @@ Day Deferred được thiết kế lại và có sử dụng các shader của b
 
 ## Nhật ký thay đổi
 
+### Phiên bản 1.1.0
+
+#### Thay đổi
+
+Thay đổi thông số của fog.
+
+Cập nhật phản xạ ánh sáng cho bề mặt nước.
+
 ### Phiên bản 1.0.0
 
 #### Bổ sung
