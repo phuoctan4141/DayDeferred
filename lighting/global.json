@@ -34,7 +34,7 @@
             "illuminance": 0.67,
             "color": "#FFFFFFFF"
         },
-        "orbital_offset_degrees": 3.0
+        "orbital_offset_degrees": 9.0
     },
     "point_lights": {
         "colors": {

@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "mud",
+        "metalness_emissive_roughness": [15, 0, 136],
+        "heightmap": "mud_normal"
+    }
+}

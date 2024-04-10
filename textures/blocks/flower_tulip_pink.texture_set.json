@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "flower_tulip_pink",
+		"metalness_emissive_roughness": [15, 0, 136],
+        "heightmap": "flower_tulip_pink_heightmap"
+    }
+}

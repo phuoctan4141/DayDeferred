@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "concrete_light_blue",
+        "metalness_emissive_roughness": [15, 0, 136],
+        "normal": "concrete_normal"    
+}
+}

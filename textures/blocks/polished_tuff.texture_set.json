@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "polished_tuff",
+		"metalness_emissive_roughness": [255, 0, 77],
+		"normal": "polished_tuff_normap"
+	}
+}

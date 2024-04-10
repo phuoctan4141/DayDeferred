@@ -3,6 +3,6 @@
 	"minecraft:texture_set": {
 		"color": "sniffer",
 		"metalness_emissive_roughness": "sniffer_mer",
-		"normal": "sniffer_normal"
+		"heightmap": "sniffer_heightmap"
 	}
 }
