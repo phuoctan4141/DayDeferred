@@ -1,0 +1,7 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "vault_top_ejecting_ominous",
+		"heightmap": "vault_top_ejecting_heightmap"
+	}
+}

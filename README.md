@@ -6,6 +6,22 @@ Day Deferred được thiết kế lại và có sử dụng các shader của b
 
 ## Nhật ký thay đổi
 
+### Phiên bản 1.2.0
+
+#### Bổ sung
+
+Bổ sung thêm title.
+
+#### Thay đổi
+
+Thay đổi pack_icon.
+
+Cập nhật fog cho một số biome.
+
+#### Sửa lỗi
+
+Sửa lỗi không hiển thị của một số particles.
+
 ### Phiên bản 1.1.0
 
 #### Thay đổi
@@ -18,7 +34,7 @@ Cập nhật phản xạ ánh sáng cho bề mặt nước.
 
 #### Bổ sung
 
-Bổ xung thêm texture cho Warden.
+Bổ sung thêm texture cho Warden.
 
 #### Thay đổi
 

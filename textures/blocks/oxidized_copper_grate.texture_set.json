@@ -1,0 +1,9 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "oxidized_copper_grate",
+		"metalness_emissive_roughness": "chiseled_copper_mer",
+		"heightmap": "copper_grate_heightmap"
+		//"normal": "copper_grate_normap"
+	}
+}
