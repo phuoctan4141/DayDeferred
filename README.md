@@ -12,6 +12,8 @@ Day Deferred được thiết kế lại và có sử dụng các shader của b
 
 Bổ sung thêm title.
 
+Thêm flipbook cho cherry_leaves.
+
 #### Thay đổi
 
 Thay đổi pack_icon.
@@ -21,6 +23,8 @@ Cập nhật fog cho một số biome.
 #### Sửa lỗi
 
 Sửa lỗi không hiển thị của một số particles.
+
+Sửa lỗi pháo hoa hiển thị không như ý muốn.
 
 ### Phiên bản 1.1.0
 
