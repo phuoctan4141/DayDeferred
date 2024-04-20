@@ -126,6 +126,52 @@
           "*": "query.hurt_time > 0 ? 1 : (variable.heart_alpha > 0 ? 1 : 0)"
         }
       ]
+    },
+    "controller.render.warden_chest": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.chest"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "query.hurt_time > 0 ? 1 : (variable.heart_alpha > 0 ? 1 : 0)"
+        }
+      ]
+    },
+    "controller.render.warden_chestbeat": {
+      "geometry": "Geometry.default",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.chestbeat"
+      ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "part_visibility": [
+        {
+          "*": "variable.heart_alpha > 0 ? 0 : 1"
+        }
+      ]
     }
   }
 }

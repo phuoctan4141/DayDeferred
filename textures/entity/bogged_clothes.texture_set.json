@@ -1,0 +1,8 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:texture_set": {
+		"color": "bogged_clothes",
+		"metalness_emissive_roughness": "bogged_clothes_mer",
+		"heightmap": "bogged_clothes_heightmap"
+	}
+}

@@ -3,5 +3,26 @@
       "flipbook_texture": "textures/blocks/cherry_leaves",
       "atlas_tile": "cherry_leaves",
       "frames": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "flipbook_texture": "textures/blocks/azalea_leaves_flowers",
+      "atlas_tile": "azalea_leaves_flowers",
+      "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "flipbook_texture": "textures/blocks/flowering_azalea_top",
+      "atlas_tile": "flowering_azalea_top",
+      "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "flipbook_texture": "textures/blocks/flowering_azalea_side",
+      "atlas_tile": "flowering_azalea_side",
+      "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "flipbook_texture": "textures/blocks/furnace_front_on",
+      "atlas_tile": "furnace_front_on",
+      "frames": [2, 1, 0],
+      "ticks_per_frame": 10
     }
 ]

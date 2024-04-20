@@ -6,6 +6,22 @@ Day Deferred được thiết kế lại và có sử dụng các shader của b
 
 ## Nhật ký thay đổi
 
+### Phiên bản 1.3.0
+
+#### Bổ sung
+
+Thêm flipbook và lighting cho azalea_flowers.
+
+Thêm color_grading.
+
+#### Thay đổi
+
+Thay đổi animation của Warden.
+
+Thay đổi fog cho dễ nhìn hơn.
+
+Thay đổi thông số của global.json.
+
 ### Phiên bản 1.2.0
 
 #### Bổ sung

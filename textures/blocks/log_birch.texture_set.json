@@ -2,7 +2,7 @@
 	"format_version": "1.16.100",
 	"minecraft:texture_set": {
 		"color": "log_birch",
-		"metalness_emissive_roughness": "cherry_log_side_mer",
-		"normal": "cherry_log_side_normap"
+		"metalness_emissive_roughness": "log_birch_mer",
+		"normal": "log_birch_normap"
 	}
 }

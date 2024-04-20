@@ -12,7 +12,9 @@
         "ears_hearing": "textures/entity/warden/warden_ears_hearing",
         "tendrils": "textures/entity/warden/warden_tendrils",
         "heart": "textures/entity/warden/warden_heart",
-        "heartbeat": "textures/entity/warden/warden_heartbeat"
+        "heartbeat": "textures/entity/warden/warden_heartbeat",
+        "chest": "textures/entity/warden/warden_chest",
+        "chestbeat": "textures/entity/warden/warden_chestbeat"
       },
       "geometry": {
         "default": "geometry.warden"
@@ -95,7 +97,9 @@
         "controller.render.warden_ears_hearing",
         "controller.render.warden_tendrils",
         "controller.render.warden_heart",
-        "controller.render.warden_heartbeat"
+        "controller.render.warden_heartbeat",
+        "controller.render.warden_chest",
+        "controller.render.warden_chestbeat"
       ],
       "enable_attachables": true,
       "spawn_egg": {

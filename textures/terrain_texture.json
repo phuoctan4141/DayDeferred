@@ -6,6 +6,15 @@
     "texture_data": {
         "cherry_leaves": {
             "textures": "textures/blocks/cherry_leaves"
+        },
+        "azalea_leaves_flowers": {
+            "textures": "textures/blocks/azalea_leaves_flowers"
+        },
+        "flowering_azalea_top": {
+            "textures": "textures/blocks/flowering_azalea_top"
+        },
+        "flowering_azalea_side": {
+            "textures": "textures/blocks/flowering_azalea_side"
         }
     }
 }

@@ -8,11 +8,11 @@
         "sun": {
             "illuminance": {
                 "0.0": 1.0,
-                "0.25": 200.0,
-                "0.35": 500.0,
-                "0.5": 1000.0,
-                "0.65": 500.0,
-                "0.75": 200.0,
+                "0.25": 400.0,
+                "0.35": 20000.0,
+                "0.5": 109880.0,
+                "0.65": 20000.0,
+                "0.75": 400.0,
                 "1.0": 1.0
             },
             "color": {
@@ -31,13 +31,17 @@
             }
         },
         "moon": {
-            "illuminance": 0.67,
+            "illuminance": 0.73,
             "color": "#FFFFFFFF"
         },
-        "orbital_offset_degrees": 3.0
+        "orbital_offset_degrees": 30.0
     },
     "point_lights": {
         "colors": {
+            "minecraft:amethyst_cluster": "#64479E",
+            "minecraft:large_amethyst_bud": "#64479E",
+            "minecraft:medium_amethyst_bud": "#64479E",
+            "minecraft:brown_mushroom": "#A5682A",
             "minecraft:conduit": "#414141",
             "minecraft:torch": "#EFE39D",
             "minecraft:redstone_torch": "#FF0000",
@@ -61,10 +65,17 @@
             "minecraft:verdant_froglight": "#12674A",
             "minecraft:lit_redstone_ore": "#960606",
             "minecraft:lit_deepslate_redstone_ore": "#960606",
+            "minecraft:lit_pumpkin": "#E3901D",
+            "minecraft:lit_blast_furnace": "#FBB741",
+            "minecraft:lit_furnace": "#FBB741",
+            "minecraft:lit_smoker": "#FBB741",
             "minecraft:cave_vines_body_with_berries": "#802E06",
             "minecraft:cave_vines_head_with_berries": "#802E06",
+            "minecraft:dragon_egg": "#6006AB",
             "minecraft:end_rod": "#FFE4E1",
             "minecraft:ender_chest": "#020E14",
+            "minecraft:trial_spawner": "#EFE39D",
+            "minecraft:vault": "#EFE39D",
             "minecraft:black_candle": "#0D0D0D",
             "minecraft:blue_candle": "#00003F",
             "minecraft:brown_candle": "#48240A",
@@ -81,7 +92,15 @@
             "minecraft:red_candle": "#8B0000",
             "minecraft:white_candle": "#F5F5F5",
             "minecraft:yellow_candle": "#B3B300",
-            "minecraft:candle": "#D0B722"
+            "minecraft:candle": "#D0B722",
+            "minecraft:copper_bulb": "#CC8D67",
+            "minecraft:exposed_copper_bulb": "#BAA37F",
+            "minecraft:oxidized_copper_bulb": "#71D4CC",
+            "minecraft:weathered_copper_bulb": "#A1bAA1",
+            "minecraft:waxed_copper_bulb": "#CC8D67",
+            "minecraft:waxed_exposed_copper_bulb": "#BAA37F",
+            "minecraft:waxed_oxidized_copper_bulb": "#71D4CC",
+            "minecraft:waxed_weathered_copper_bulb": "#A1bAA1"
         }
     },
     "pbr": {
