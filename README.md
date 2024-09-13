@@ -1,6 +1,6 @@
 # DayDeferred
  
-## Day Deferred là một shader pack hỗ trợ Deferred PBR cho Minecraft Bedrock.
+## Day Deferred là một deferred pack hỗ trợ Deferred PBR cho Minecraft Bedrock.
 
 Day Deferred được thiết kế lại và có sử dụng các shader của bên thứ ba như là [Lynx Deferred PBR Renderdragon](https://mcpedl.com/lynx-deferred-pbr/) và [Poggy's Luminous Dreams](https://mcpedl.com/poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta/) . . .
 
